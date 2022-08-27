@@ -52,7 +52,7 @@ Object.defineProperty(NextImage, 'default', {
   ),
 })
 
-Object.defineProperty(NextImage, '__esModule', {
+Object.defineProperty(nextImage, '__esModule', {
   configurable: true,
   value: true,
 })

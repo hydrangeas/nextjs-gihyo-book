@@ -12,10 +12,10 @@ module.exports = {
     "@storybook/addon-interactions",
     "@storybook/addon-postcss",
   ],
-  "framework": "@storybook/react",
-  "core": {
-    "builder": "@storybook/builder-webpack5"
-  },
+  // "framework": "@storybook/react",
+  // "core": {
+  //   "builder": "@storybook/builder-webpack5"
+  // },
   staticDirs: ['public'],
   babel: async options => ({
     ...options,
